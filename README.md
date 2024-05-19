@@ -21,7 +21,7 @@
 - Lower the Annual Income, higher is the chances of Charged Off Loans
 - Higher the DTI, higher is the chance of Charged Off Loans
 - Higher the Revolving Line Utilization Rate, higher is the chance of Charged Off Loans
-- On the contrary to what we assumed before, longer the loan tenure, higher the chances of Charged Off Loans
+- Longer the loan tenure, higher the chances of Charged Off Loans
 - Higher the Derogatory Public Record, Higher the chances of Charged Off Loans
 - Lower the Grade/Sub-Grade assigned by LC, higher the chances of Charge Off
 - Higher the number of public bankruptcies, higher the chance of Charge Off
